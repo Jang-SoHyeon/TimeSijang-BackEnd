@@ -240,7 +240,7 @@ src
 
 ## 7. API 명세서
 
-[Time](https://documenter.getpostman.com/view/23052522/2sA3Bg9FFe)
+[![image](https://github.com/user-attachments/assets/8a76b1e4-c48f-4ee9-b8da-cdc798ee801a)](https://documenter.getpostman.com/view/23052522/2sA3Bg9FFe)
 <br><br><br>
 
 ## 8. 상세 기능
